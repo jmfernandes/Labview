@@ -1,0 +1,25 @@
+OrgDefinedId,Last Name,First Name,Lab A Points Grade <Numeric MaxPoints:16 Category:Lab Reports>,Lab 1 Points Grade <Numeric MaxPoints:16 Category:Lab Reports>,Lab 2 Points Grade <Numeric MaxPoints:16 Category:Lab Reports>,Lab 4 Points Grade <Numeric MaxPoints:16 Category:Lab Reports>,Lab 5 Points Grade <Numeric MaxPoints:16 Category:Lab Reports>,Lab 3 Points Grade <Numeric MaxPoints:16 Category:Lab Reports>,Lab 6 Points Grade <Numeric MaxPoints:16 Category:Lab Reports>,Lab 7 Points Grade <Numeric MaxPoints:32 Category:Lab Reports>,Comp Lab 1 Points Grade <Numeric MaxPoints:16 Category:Lab Reports>,Comp Lab 2 Points Grade <Numeric MaxPoints:16 Category:Lab Reports>,Comp Lab 3 Points Grade <Numeric MaxPoints:16 Category:Lab Reports>,Comp Lab 4 Points Grade <Numeric MaxPoints:16 Category:Lab Reports>,Lab Reports Subtotal Numerator,Lab Reports Subtotal Denominator,Pre Lab Quiz A Points Grade <Numeric MaxPoints:9 Category:Pre-Lab Quizzes>,Pre Lab Quiz 1 Points Grade <Numeric MaxPoints:11 Category:Pre-Lab Quizzes>,Pre Lab Quiz 2 Points Grade <Numeric MaxPoints:9 Category:Pre-Lab Quizzes>,Pre Lab Quiz 4 Points Grade <Numeric MaxPoints:11 Category:Pre-Lab Quizzes>,Pre Lab Quiz 5 Points Grade <Numeric MaxPoints:8 Category:Pre-Lab Quizzes>,Pre Lab Quiz 3 Points Grade <Numeric MaxPoints:10 Category:Pre-Lab Quizzes>,Pre Lab Quiz 6 Points Grade <Numeric MaxPoints:10 Category:Pre-Lab Quizzes>,Pre Lab Quiz 7 Points Grade <Numeric MaxPoints:10 Category:Pre-Lab Quizzes>,Pre-Lab Quizzes Subtotal Numerator,Pre-Lab Quizzes Subtotal Denominator,Group Problem 1 Points Grade <Numeric MaxPoints:2 Category:Group Problems>,Group Problem 2 Points Grade <Numeric MaxPoints:2 Category:Group Problems>,Group Problem 3 Points Grade <Numeric MaxPoints:2 Category:Group Problems>,Group Problem 4 Points Grade <Numeric MaxPoints:2 Category:Group Problems>,Group Problem 5 Points Grade <Numeric MaxPoints:2 Category:Group Problems>,Group Problem 6 Points Grade <Numeric MaxPoints:2 Category:Group Problems>,Group Problem 7 Points Grade <Numeric MaxPoints:2 Category:Group Problems>,Group Problem 8 Points Grade <Numeric MaxPoints:2 Category:Group Problems>,Group Problem 9 Points Grade <Numeric MaxPoints:2 Category:Group Problems>,Group Problems Subtotal Numerator,Group Problems Subtotal Denominator,Calculated Final Grade Numerator,Calculated Final Grade Denominator,Adjusted Final Grade Numerator,Adjusted Final Grade Denominator,End-of-Line Indicator
+#013004977,Cho,David,13.5,14.5,,,,,,,14.5,,,,42.5,48,9,11,9,11,8,,,,48,48,2,,,,,,,,,2,2,92.5,98,,,#
+#013206204,Neupane,Sachin,13.5,14.5,,,,,,,14.5,,,,42.5,48,9,11,9,11,,,,,40,40,2,,,,,,,,,2,2,84.5,90,,,#
+#013305199,Tran,Vinh,13.5,14.5,,,,,,,14.5,,,,42.5,48,9,11,8,11,8,,,,47,48,2,,,,,,,,,2,2,91.5,98,,,#
+#013345239,Bicol,Justin,13.5,14.5,,,,,,,14.5,,,,42.5,48,9,11,9,11,,,,,40,40,2,,,,,,,,,2,2,84.5,90,,,#
+#012727037,Felts,Justin,13.5,13.5,,,,,,,14.5,,,,41.5,48,9,10,9,11,,,,,39,40,2,,,,,,,,,2,2,82.5,90,,,#
+#013601599,Trinh,Brandon,13.5,14.5,,,,,,,14.5,,,,42.5,48,9,11,9,11,8,,,,48,48,2,,,,,,,,,2,2,92.5,98,,,#
+#013930967,Nguyen,Pamela,13.5,14.5,,,,,,,14.5,,,,42.5,48,9,11,9,11,,,,,40,40,2,,,,,,,,,2,2,84.5,90,,,#
+#013984904,Williams,Christopher,13.5,14.5,,,,,,,14.5,,,,42.5,48,9,10,9,11,,,,,39,40,2,,,,,,,,,2,2,83.5,90,,,#
+#014292822,Jimenez,Javier,13.5,14.5,,,,,,,14.5,,,,42.5,48,9,11,9,9,8,,,,46,48,2,,,,,,,,,2,2,90.5,98,,,#
+#014443804,Aguilera,David,16,14.5,,,,,,,14.5,,,,45,48,0,0,0,,,,,,0,29,2,,,,,,,,,2,2,47,79,,,#
+#014459885,Nguyen,Nathan,13.5,14.5,,,,,,,14.5,,,,42.5,48,8,11,9,11,,,,,39,40,2,,,,,,,,,2,2,83.5,90,,,#
+#014470701,Sok,Socheath,13.5,14.5,,,,,,,14.5,,,,42.5,48,9,11,8,11,8,,,,47,48,2,,,,,,,,,2,2,91.5,98,,,#
+#014474679,Kim,Jinny,16,14.5,,,,,,,14.5,,,,45,48,0,0,9,11,,,,,20,40,2,,,,,,,,,2,2,67,90,,,#
+#014575156,Margaris,Alexander,0,14.5,,,,,,,14.5,,,,29,48,0,9,7,9,,,,,25,40,2,,,,,,,,,2,2,56,90,,,#
+#014591588,Wu,Haoming,13.5,14.5,,,,,,,14.5,,,,42.5,48,9,11,9,11,,,,,40,40,2,,,,,,,,,2,2,84.5,90,,,#
+#013927392,Mendoza,Rebekah,13.5,14.5,,,,,,,14.5,,,,42.5,48,9,11,9,11,,,,,40,40,2,,,,,,,,,2,2,84.5,90,,,#
+#014047421,Roe,Jason,13.5,14.5,,,,,,,14.5,,,,42.5,48,9,10,6,6,,,,,31,40,2,,,,,,,,,2,2,75.5,90,,,#
+#014109067,Do,Eric,13.5,13.5,,,,,,,14.5,,,,41.5,48,9,11,9,11,,,,,40,40,2,,,,,,,,,2,2,83.5,90,,,#
+#014130634,Hernandez,Sara,13.5,14.5,,,,,,,14.5,,,,42.5,48,9,11,8,11,,,,,39,40,2,,,,,,,,,2,2,83.5,90,,,#
+#014342313,Nguyen,Daniel,13.5,14.5,,,,,,,14.5,,,,42.5,48,8,0,0,,,,,,8,29,2,,,,,,,,,2,2,52.5,79,,,#
+#014637517,VanLerberghe,Ronald,13.5,14.5,,,,,,,14.5,,,,42.5,48,9,11,0,10,,,,,30,40,2,,,,,,,,,2,2,74.5,90,,,#
+#014660319,Alam,Farhan,13.5,13.5,,,,,,,14.5,,,,41.5,48,0,0,9,9,,,,,18,40,2,,,,,,,,,2,2,61.5,90,,,#
+#013394652,Dang,Hoang,16,14.5,,,,,,,14.5,,,,45,48,9,11,8,11,,,,,39,40,2,,,,,,,,,2,2,86,90,,,#
+#013880670,Serrano,Manuel,13.5,14.5,,,,,,,14.5,,,,42.5,48,9,11,9,10,8,,,,47,48,2,,,,,,,,,2,2,91.5,98,,,#
